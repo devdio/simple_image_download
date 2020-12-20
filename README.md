@@ -7,7 +7,6 @@ Documentation
 
 1. Installation
 
-   - Download simple-image-download.py from my [github](https://github.com/RiddlerQ/simple_image_download) and use it in your project
    - Use command **pip install simple_image_download**
    
 2. Methods
@@ -28,7 +27,7 @@ Documentation
 
 3. Example
 	
-	Example are on my [github](https://github.com/RiddlerQ/simple_image_download) in sub-respository named example
+	Use file named **download_from_google.py** to download images containing **honey bees**.
 	
 End
 ---
